@@ -6,3 +6,5 @@ Discord chat bot and wiki AI
 // pip install wikipedia 
  
  //pip install discord
+
+//pip install chatbotai
